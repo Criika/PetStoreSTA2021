@@ -6,13 +6,14 @@
   },
   "name": "Snoopy",
   "photoUrls": [
-    "string"
-  ],
+      "string"
+],
   "tags": [
-    {
+  {
       "id": 2021,
       "name": "sta"
     }
-  ],
+    ],
+
   "status": "available"
 }
